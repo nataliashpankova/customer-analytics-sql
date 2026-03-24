@@ -1,2 +1,2 @@
-# customer-analytics-sql
-SQL project customer analytics (joins, CTEs, window functions)
+# Customer Segmentation Analysis using SQL
+SQL project analyzing customer behavior, segmentation, and purchasing patterns.
