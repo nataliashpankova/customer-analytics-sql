@@ -1,13 +1,13 @@
 # Key Insights
 
-- **High-Value Customers:** Customers with avg_monthly_spend > 500 contribute disproportionately to revenue
-- **Segment Distribution:** Most customers are medium-value; few are high-value
-- **Behavioral Patterns:** Customers with higher purchase_frequency tend to spend more monthly
-- **Discount & Returns:** Frequent discount usage may correlate with higher returns; monitor for profitability
+- VIP customers (high spend + high frequency) represent the most valuable segment
+- Customers with high return rates and support interactions pose business risks
+- Medium-value customers have strong potential for growth
+- Purchase frequency strongly correlates with spending
 
 # Business Recommendations
 
-1. **Loyalty Programs:** Design targeted campaigns for high-value customers
-2. **Customer Engagement:** Incentivize low-value customers with offers to increase purchase frequency
-3. **Marketing Focus:** Medium-value segment represents growth potential
-4. **Operational Insights:** Track support interactions to improve customer satisfaction
+- Develop loyalty programs for VIP customers
+- Reduce return rates through better product targeting
+- Upsell medium-value customers
+- Monitor high-risk customers to reduce churn
